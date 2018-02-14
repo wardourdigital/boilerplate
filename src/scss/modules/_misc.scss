@@ -1,15 +1,10 @@
-::selection{
-  background: #333;
-  color: #fff;
-  text-shadow: none;
-}
-::-moz-selection{
-  background: #333;
-  color: #fff;
-  text-shadow: none;
-}
-::-webkit-selection{
-  background: #333;
-  color: #fff;
-  text-shadow: none;
+/* ==========================================================================
+   Browser Upgrade Prompt
+   ========================================================================== */
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
 }
